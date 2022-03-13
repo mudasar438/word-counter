@@ -1,0 +1,17 @@
+.Mainbox{
+    color: blue;
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.P1{
+    text-align: left;
+    font-size: 18px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    margin: 20px 30px;
+}
